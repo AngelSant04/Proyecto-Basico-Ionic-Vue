@@ -1,0 +1,7 @@
+{
+  "name": "proyect_tpi_mobile",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
