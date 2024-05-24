@@ -1,0 +1,8 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "proyect_tpi_mobile",
+  "webDir": "public",
+  "server": {
+    "androidScheme": "https"
+  }
+}
